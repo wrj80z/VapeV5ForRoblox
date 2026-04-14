@@ -15,7 +15,7 @@ Since our king xylex/7granddad quit. we making version five and upgrading every 
 </h2>
 
 ## Contacts
-[Discord]: @harmonious_courgette_71456
+My Discord: @harmonious_courgette_71456
 
 ## Usage
 1. Download the specific scripting utility of your choice.
