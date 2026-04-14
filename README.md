@@ -37,6 +37,7 @@ If its not the supposed utility at fault, please try some troubleshooting steps.
 
 ## Developers & Credits
 [Soryed] - Creator and lead maintame of this VapeV5 project
+<br/>
 [7GrandDad](https://github.com/7GrandDadPGN) - Creator of VapeV4
 <br/>
 [rce-incorporated](https://github.com/rce-incorporated/Fiu) - Luau bytecode disassembly with modifications
